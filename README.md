@@ -1,6 +1,6 @@
 I’m a fullstack developer focused on turning ideas into efficient and scalable solutions, always eager to learn and explore new technologies. I have solid experience with PHP, JavaScript, HTML, CSS, MySQL, and PostgreSQL ( SQL languages in general). I also develop in Java and am constantly learning, currently diving deeper into Python and React to expand my skill set.
 
-👨‍💼 Founder of Cakeon — a SaaS solution designed for confectioners, helping them organize orders, manage finances, and much more with ease.
+👨‍💼 Founder of <a href="https://www.cakeon.com.br/" >Cakeon</a> — a SaaS solution designed for confectioners, helping them organize orders, manage finances, and much more with ease.
 
 💡 I enjoy building projects from the ground up, creating innovative solutions, and collaborating on meaningful software that makes a difference. On my GitHub, you'll find personal projects, open-source contributions, and experiments with new technologies.
 
